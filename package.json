@@ -1,5 +1,5 @@
 {
-  "name": "files.photo.gallery",
+  "name": "files.photo.gallery.bypass",
   "version": "0.9.11",
   "description": "Single-file PHP file gallery and file manager / https://demo.files.gallery/",
   "main": "index.php",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CureSaba/files.photo.gallery.git"
+    "url": "https://github.com/CureSaba/files.photo.gallery.bypass.git"
   },
   "keywords": [
     "php",
