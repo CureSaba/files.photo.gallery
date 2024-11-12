@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mjau-mjau/files.photo.gallery.git"
+    "url": "https://github.com/CureSaba/files.photo.gallery.git"
   },
   "keywords": [
     "php",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://forum.files.gallery/"
   },
-  "author": "Karl Ward <karl@photo.gallery> (https://www.photo.gallery)",
+  "author": "CureSaba <dontmail@gmail.com> (https://curesaba.com)",
   "license": "SEE LICENSE IN LICENSE.md",
-  "homepage": "https://www.files.gallery/"
+  "homepage": "https://curesaba.com/"
 }
