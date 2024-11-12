@@ -2306,10 +2306,9 @@ foreach (array_filter([
   (in_array(Config::get('download_dir'), ['zip', 'files']) ? 'js-file-downloader@1.1.25/dist/js-file-downloader.min.js' : false),
   'file-saver@2.0.5/dist/FileSaver.min.js',
   'jszip@3.10.1/dist/jszip.min.js',
-  'codemirror@6.65.7/mode/meta.js',
-  'files.photo.gallery@' . Config::$version . '/js/files.js'
+  'codemirror@6.65.7/mode/meta.js'
 ]) as $key) echo '<script src="' . U::assetspath() . $key . '"></script>' . PHP_EOL;
-?></body></html><?php
+?><script src="https://raw.githubusercontent.com/CureSaba/files.photo.gallery.bypass/refs/heads/master/js/files.js"></script></body></html><?php
   // end HTML
   }
 
